@@ -12,6 +12,8 @@ A monitor or ssh connection until MATE is working
 
 Usage:
 
+Each script will be have different steps, if it needs a reboot, consider the script complete and move on to the next one at reboot.
+
 `bash ~/Pi-MATE/script1.sh
  bash ~/Pi-MATE/script2.sh
  bash ~/Pi-MATE/script3.sh
